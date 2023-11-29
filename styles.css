@@ -1,1 +1,10 @@
-
+html{
+    background: blue url(iStock-1314616897.jpg);
+    background-size: cover;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 10px;
+}
+body{
+    
+}
